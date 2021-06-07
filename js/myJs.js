@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Còn chờ gì, hunnnnn cái nào",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/arsper21/';
+                    window.location = 'https://lehoanganh21.github.io/MyLove/';
                   }
             })
         }
